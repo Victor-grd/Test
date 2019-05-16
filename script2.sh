@@ -5,6 +5,7 @@ sudo apt update -y
 &> /dev/null
 
 sudo apt install apache2 -y
+&> /dev/null
     echo '###Installing Apache2'
     sleep 0.5
     clear
